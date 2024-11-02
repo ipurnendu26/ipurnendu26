@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Purnendu Kalw</h1>
-- 💬 Ask me about **Data science| Machine learning |Deep learning | NLP|**
+<h1 align="center">Hi 👋, I'm Purnendu Kale</h1>
+<h3 align="center">Hello and welcome to my GitHub! I'm Purnendu, a Data Science and Machine Learning enthusiast, currently pursuing my Master’s in Computer Science. Passionate about building intelligent solutions and uncovering insights from complex datasets.</h3>
+
+- 💬 Ask me about **Data science| Machine learning |Deep learning | NLP|
 
 - 📫 How to reach me **purnendukale105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/purnendu kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnendu kale" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/purnendukale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/purnendukale" height="30" width="40" /></a>
+<a href="https://instagram.com/purnendukale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purnendukale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
