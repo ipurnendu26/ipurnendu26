@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purnendu Kale</h1>
 <h3 align="center">Hello and welcome to my GitHub! I'm Purnendu, a Data Science and Machine Learning enthusiast, currently pursuing my Master’s in Computer Science. Passionate about building intelligent solutions and uncovering insights from complex datasets.</h3>
 
-- 💬 Ask me about **Data science| Machine learning |Deep learning | NLP|**
+- 💬 Ask me about **Data science| Machine learning |Deep learning | NLP|Gen AI**
 
 - 📫 How to reach me **purnendukale105@gmail.com**
 
