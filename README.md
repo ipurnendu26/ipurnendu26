@@ -1,41 +1,72 @@
-# Purnendu Kale  
+# Purnendu Kale
 
-### Data Science · Machine Learning · Scalable AI Systems  
-Master’s in Computer Science (Illinois Tech) — delivering **timely, scalable, and optimized solutions** that transform complex data into intelligent systems.  
+### Data & AI Engineer | Machine Learning Systems, Data Platforms & Applied Analytics
 
-[📧 purnendukale105@gmail.com](mailto:purnendukale105@gmail.com) • [LinkedIn](https://linkedin.com/in/purnendukale) • [Kaggle](https://www.kaggle.com/purnendukale)  
+Master's in Computer Science from **Illinois Institute of Technology**. I build production-oriented AI applications and scalable data pipelines across computer vision, natural language processing, information retrieval, cloud analytics, and business intelligence.
 
----
+My work connects the full lifecycle: **data ingestion → transformation → modeling → evaluation → deployment → monitoring**.
 
-## What I deliver  
-Practical, production-ready systems that prioritize reliability, scalability, and interpretability.  
-I focus on bridging research and deployment — creating solutions that are both **analytically sound** and **operationally efficient**.
+[LinkedIn](https://www.linkedin.com/in/purnendukale/) · [Kaggle](https://www.kaggle.com/purnendukale) · [Email](mailto:purnendukale105@gmail.com)
 
 ---
 
-## What defines my work  
-A blend of **scientific precision** and **engineering discipline**. My interest lies in designing data-driven architectures that can learn, adapt, and scale seamlessly across environments.  
+## Featured engineering work
 
-- **As a Data Scientist**, I translate data patterns into decisions through statistical reasoning and model experimentation.  
-- **As a Data Engineer**, I build fault-tolerant pipelines and automate data quality at scale.  
-- **As a Machine Learning Engineer**, I transform research models into deployable assets optimized for performance and cost.  
-- **As an AI Engineer**, I explore generative and retrieval-based models for knowledge extraction and intelligent automation.  
-- **As a Business Intelligence Engineer**, I create transparent analytical layers that enable clarity and measurable business outcomes.  
-
-I value clean design, reproducibility, and the pursuit of meaningful efficiency — where every line of code serves a measurable purpose.  
-
----
-
-## Core Competencies  
-**Languages & Tools:** Python, SQL, PySpark, TensorFlow, PyTorch, Scikit-learn, Docker, AWS, GCP, PostgreSQL  
-**Data & Analytics:** ETL Design, Feature Engineering, Model Evaluation, A/B Testing, Data Warehousing  
-**AI & ML Systems:** NLP, Computer Vision, Generative Models, MLOps, Model Optimization  
-**Visualization & Reporting:** Power BI, Tableau, Plotly, Streamlit  
+| Project | Engineering focus | Technology |
+|---|---|---|
+| [AWS Web Traffic Data Lake](https://github.com/ipurnendu26/web-traffic-data-lake) | Serverless ETL, Parquet partitioning, SQL analytics, monitoring, and fine-grained data governance | AWS Glue, PySpark, S3, Athena, Lake Formation, CloudWatch |
+| [MedView-AI](https://github.com/ipurnendu26/MedviewAI) | DICOM processing, medical-image classification, explainability, interoperable reporting, and audit logging | TensorFlow, DICOM, Grad-CAM, FHIR R4, PostgreSQL, Docker |
+| [Financial Document Intelligence](https://github.com/ipurnendu26/FinDoc-Insight-Engine) | OCR-to-analytics workflow for receipts and financial statements | BERT, Tesseract, Flask, PostgreSQL, Pandas |
+| [Supply Chain Risk Intelligence](https://github.com/ipurnendu26/Next-Gen-AI-Supply-Chain-Risk-Analytics) | Forecasting, anomaly detection, supplier monitoring, and modular risk workflows | Prophet, Isolation Forest, Scikit-learn, Streamlit |
+| [CogniSearch](https://github.com/ipurnendu26/CogniSearch---Wikipedia-Information-Retrieval-System) | Hybrid lexical and semantic search with crawling, indexing, and query expansion | Scrapy, TF-IDF, FAISS, Word2Vec, Flask |
+| [Chicago Community Network Analysis](https://github.com/ipurnendu26/CS579-OSNA-_FinalProject) | Geospatial data preparation, similarity networks, community detection, and temporal analysis | GeoPandas, NetworkX, Scikit-learn, Pandas |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipurnendu26&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub stats" width="420"/>
-</p>
+## What I build
 
-**Explore the repositories below** to see how data, design, and discipline meet in real-world systems.
+- **Data platforms:** Batch and streaming pipelines, ETL/ELT workflows, dimensional models, data quality checks, and governed analytical layers
+- **Machine learning systems:** Reproducible training workflows, model evaluation, inference services, explainability, and production validation
+- **Applied AI:** Computer vision, NLP, retrieval-augmented generation, document intelligence, and multimodal extraction
+- **Analytics:** SQL analysis, forecasting, experimentation, interactive dashboards, and decision-support reporting
+- **Cloud solutions:** Serverless data processing, storage, orchestration, monitoring, and secure access patterns
+
+## Technical toolkit
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, SQL, C++, Java, JavaScript |
+| Data Engineering | PySpark, Apache Spark, Kafka, Airflow, ETL/ELT, Data Warehousing |
+| Machine Learning | Scikit-learn, TensorFlow, Keras, PyTorch, Transformers, XGBoost |
+| AI Systems | LangChain, FAISS, ChromaDB, RAG, OCR, computer vision, prompt engineering |
+| Cloud | AWS S3, Glue, Lambda, Redshift, Athena, Lake Formation; Azure Functions, Databricks, Synapse, ADLS |
+| Databases | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, DynamoDB |
+| Engineering | Docker, GitHub Actions, REST APIs, Flask, FastAPI, Streamlit |
+| Analytics | Power BI, Tableau, Plotly, Matplotlib, Seaborn |
+
+## Current interests
+
+I am interested in opportunities where I can combine analytical reasoning with software engineering, particularly in:
+
+- Data Science and Applied Machine Learning
+- Data Engineering and Analytics Engineering
+- AI/ML Engineering
+- Business Intelligence and Decision Systems
+
+## Engineering principles
+
+I aim to make every featured project:
+
+- Reproducible from documented setup instructions
+- Explicit about datasets, metrics, assumptions, and limitations
+- Secure by default, with credentials and generated artifacts excluded
+- Testable and maintainable beyond a single notebook
+- Focused on a clear technical or business problem
+
+---
+
+### Let's connect
+
+I am open to collaborating on data, AI, machine learning, and analytics projects.
+
+[LinkedIn](https://www.linkedin.com/in/purnendukale/) · [Email](mailto:purnendukale105@gmail.com)
