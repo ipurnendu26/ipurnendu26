@@ -18,11 +18,7 @@ Based in the USA · Open to relocation · Interested in Data Science, AI/ML Engi
 
 ## Industry experience
 
-- Built supplier-agnostic industrial-label extraction pipelines combining Python, OCR, computer vision, vision-language models, deterministic decoding, template matching, and multimodal reranking across **10+ manufacturer templates**.
-- Improved extraction quality to **100% template-selection precision** and **98% exact-match field decoding**, while reducing manual review by **40%** on audited test batches.
-- Developed FastAPI-based audio/video processing workflows using OCR and digital signal processing, achieving **95% precision**, reducing manual verification by **80%**, and improving release effort by **40%**.
-- Applied Random Forest, XGBoost, neural networks, Kafka, and Spark to telecom prediction, healthcare modeling, and insurance-fraud ETL involving **50K+ customer records** and **500K+ transactions**.
-- Delivered cloud-backed JSON data flows, data-quality processes, pipeline monitoring, and Tableau/Power BI dashboards that converted operational data into actionable KPIs.
+I bring **2+ years of hands-on experience across AI/ML and data science**, working on varied projects spanning industrial document intelligence, computer vision and OCR, NLP and LLM applications, predictive modeling, deep learning, streaming ETL, cloud data platforms, and business intelligence. I have built solutions processing **10+ label templates** and **500K+ transactions**, with outcomes including **100% template-selection precision**, **98% exact-match field decoding**, reduced manual review, lower data latency, and faster reporting. My interests center on building reliable, production-minded AI systems that connect strong modeling with scalable data engineering, measurable business impact, and clear evaluation.
 
 ## Featured projects
 
