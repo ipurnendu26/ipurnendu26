@@ -1,41 +1,50 @@
-# Purnendu Kale  
+# Purnendu Kale
 
-### Data Science · Machine Learning · Scalable AI Systems  
-Master’s in Computer Science (Illinois Tech) — delivering **timely, scalable, and optimized solutions** that transform complex data into intelligent systems.  
+### Data Scientist & AI/ML Engineer | Generative AI · Computer Vision · Data Engineering
 
-[📧 purnendukale105@gmail.com](mailto:purnendukale105@gmail.com) • [LinkedIn](https://linkedin.com/in/purnendukale) • [Kaggle](https://www.kaggle.com/purnendukale)  
+I build reliable data and AI systems that turn complex information into measurable operational outcomes. My work spans machine learning, retrieval-augmented generation, computer vision, data pipelines and business analytics, with an emphasis on reproducibility, validation and clear communication.
 
----
+Master of Computer Science, Illinois Institute of Technology · Charlotte, NC · Open to relocation
 
-## What I deliver  
-Practical, production-ready systems that prioritize reliability, scalability, and interpretability.  
-I focus on bridging research and deployment — creating solutions that are both **analytically sound** and **operationally efficient**.
+[LinkedIn](https://www.linkedin.com/in/purnendukale) · [Kaggle](https://www.kaggle.com/purnendukale) · [Email](mailto:purnendukale105@gmail.com)
 
----
+## Focus areas
 
-## What defines my work  
-A blend of **scientific precision** and **engineering discipline**. My interest lies in designing data-driven architectures that can learn, adapt, and scale seamlessly across environments.  
+- **Applied AI and machine learning:** predictive modeling, NLP, computer vision, transformers, anomaly detection and forecasting
+- **Generative AI systems:** RAG, document intelligence, agentic workflows, vector search and grounded evaluation
+- **Data engineering:** Python/SQL pipelines, Spark, Kafka, cloud data platforms, data quality and analytical modeling
+- **Analytics and BI:** experiment analysis, KPI design, Power BI, Tableau and decision-focused storytelling
 
-- **As a Data Scientist**, I translate data patterns into decisions through statistical reasoning and model experimentation.  
-- **As a Data Engineer**, I build fault-tolerant pipelines and automate data quality at scale.  
-- **As a Machine Learning Engineer**, I transform research models into deployable assets optimized for performance and cost.  
-- **As an AI Engineer**, I explore generative and retrieval-based models for knowledge extraction and intelligent automation.  
-- **As a Business Intelligence Engineer**, I create transparent analytical layers that enable clarity and measurable business outcomes.  
+## Selected work
 
-I value clean design, reproducibility, and the pursuit of meaningful efficiency — where every line of code serves a measurable purpose.  
+| Project | What it demonstrates | Technology |
+|---|---|---|
+| [Document Q&A with Cited Retrieval](https://github.com/ipurnendu26/Chat-with-multiple-PDFs) | Session-scoped multi-PDF RAG with page citations, safe secret handling, tests and CI | LangChain, OpenAI, FAISS, Streamlit, Docker |
+| [MedView-AI](https://github.com/ipurnendu26/MedviewAI) | Medical-imaging research prototype with DICOM processing, model training, explainability and audit-oriented architecture | TensorFlow, OpenCV, pydicom, PostgreSQL, Docker |
+| [Serverless Web Traffic Data Lake](https://github.com/ipurnendu26/web-traffic-data-lake) | PySpark ETL, partitioned Parquet, Athena analytics and Lake Formation governance | AWS Glue, S3, Athena, PySpark, SQL |
+| [Supply Chain Risk Analytics](https://github.com/ipurnendu26/Next-Gen-AI-Supply-Chain-Risk-Analytics) | Modular risk-analysis prototype combining forecasting, anomaly detection, retrieval and workflow orchestration | Python, Prophet, Isolation Forest, LangGraph, ChromaDB |
+| [Financial Document Intelligence](https://github.com/ipurnendu26/FinDoc-Insight-Engine) | OCR and NLP pipeline for extracting, categorizing and analyzing financial transactions | Flask, Tesseract, BERT, PostgreSQL, Chart.js |
+| [Chicago Community Network Analysis](https://github.com/ipurnendu26/CS579-OSNA-_FinalProject) | Reproducible geospatial and network analysis across census-derived community data | Python, GeoPandas, NetworkX, scikit-learn |
 
----
+## Industry experience
 
-## Core Competencies  
-**Languages & Tools:** Python, SQL, PySpark, TensorFlow, PyTorch, Scikit-learn, Docker, AWS, GCP, PostgreSQL  
-**Data & Analytics:** ETL Design, Feature Engineering, Model Evaluation, A/B Testing, Data Warehousing  
-**AI & ML Systems:** NLP, Computer Vision, Generative Models, MLOps, Model Optimization  
-**Visualization & Reporting:** Power BI, Tableau, Plotly, Streamlit  
+- Built and validated a supplier-agnostic industrial-label extraction pipeline using computer vision, OCR, multimodal models and deterministic repair logic. Evaluation on audited recoverable fields reported **100% template-selection precision** and **98% exact-match field decoding**.
+- Developed AI and data workflows across multimodal extraction, predictive modeling, ETL, analytics and cloud platforms.
+- Contribute as a volunteer Data Engineer on Python/SQL ETL, AWS S3, data quality, pipeline monitoring and Power BI reporting.
 
----
+## Technical toolkit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipurnendu26&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub stats" width="420"/>
-</p>
+| Area | Tools |
+|---|---|
+| Programming | Python, SQL, C++, Java, JavaScript |
+| ML and AI | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, OpenCV, spaCy |
+| GenAI and retrieval | LangChain, LangGraph, RAG, FAISS, ChromaDB, prompt and evaluation workflows |
+| Data engineering | Spark, Kafka, Airflow, ETL/ELT, data warehousing, REST APIs |
+| Cloud and deployment | AWS, Azure, GCP, Databricks, Docker, Kubernetes, GitHub Actions |
+| Analytics | Power BI, Tableau, Plotly, Streamlit, statistical analysis and forecasting |
 
-**Explore the repositories below** to see how data, design, and discipline meet in real-world systems.
+## Engineering principles
+
+I treat portfolio work as inspectable engineering: claims should be reproducible, secrets must stay out of source control, model limitations should be explicit, and documentation should help another person run and evaluate the system.
+
+I am interested in full-time opportunities across Data Science, AI/ML Engineering, Data Engineering and applied analytics.
