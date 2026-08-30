@@ -18,17 +18,11 @@ Based in the USA · Open to relocation · Interested in Data Science, AI/ML Engi
 
 ## Industry experience
 
-- **DigiKey Electronics — Data Scientist Intern** *(Jun 2026 – Aug 2026)*  
-  Built a supplier-agnostic industrial-label extraction pipeline across 10+ manufacturer templates, reporting 100% template-selection precision, 40% less manual review, and 98% exact-match field decoding on audited test batches.
-
-- **Eagle Studio — AI Engineer Intern** *(May 2025 – Aug 2025)*  
-  Developed FastAPI, OCR, and digital-signal-processing workflows for audio/video analysis, achieving 95% precision, reducing manual verification by 80%, and improving release processes with CI/CD.
-
-- **Elite Softwares — Data Scientist Intern** *(Jan 2023 – Aug 2024)*  
-  Worked on telecom prediction, healthcare deep learning, Kafka/Spark insurance-fraud ETL over 500K+ transactions, and Tableau/Power BI reporting.
-
-- **SaayamForAll — Volunteer Data Engineer** *(Aug 2026 – Present)*  
-  Contribute to Python/SQL ETL, AWS S3 data flows, data quality, monitoring, and Power BI reporting.
+- Built supplier-agnostic industrial-label extraction pipelines combining Python, OCR, computer vision, vision-language models, deterministic decoding, template matching, and multimodal reranking across **10+ manufacturer templates**.
+- Improved extraction quality to **100% template-selection precision** and **98% exact-match field decoding**, while reducing manual review by **40%** on audited test batches.
+- Developed FastAPI-based audio/video processing workflows using OCR and digital signal processing, achieving **95% precision**, reducing manual verification by **80%**, and improving release effort by **40%**.
+- Applied Random Forest, XGBoost, neural networks, Kafka, and Spark to telecom prediction, healthcare modeling, and insurance-fraud ETL involving **50K+ customer records** and **500K+ transactions**.
+- Delivered cloud-backed JSON data flows, data-quality processes, pipeline monitoring, and Tableau/Power BI dashboards that converted operational data into actionable KPIs.
 
 ## Featured projects
 
