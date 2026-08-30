@@ -61,6 +61,12 @@ Across the portfolio I practice environment-based configuration, secret-safe rep
 - Engineered Kafka/Spark ETL for **500K+ real-time insurance transactions**, reducing data latency by **35%** and improving threat-recognition accuracy by **18%**.
 - Delivered Tableau and Power BI KPI dashboards, with a reported **40% improvement in reporting/decision-making effectiveness**.
 
+### SaayamForAll — Volunteer Data Engineer
+*Aug 2026 – Present · Remote*
+
+- Contribute Python/SQL ETL, AWS S3 data flows, data-quality checks, pipeline monitoring, and Power BI reporting for a community technology initiative.
+- Focus on maintainable analytical workflows, clear handoffs, and reliable reporting while collaborating in a distributed volunteer team.
+
 ## Selected GitHub work
 
 | Area | Project | Evidence of skills |
