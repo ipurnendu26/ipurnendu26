@@ -4,7 +4,7 @@
 
 I build reliable data and AI systems that turn complex information into measurable operational outcomes. My work spans machine learning, retrieval-augmented generation, computer vision, data pipelines and business analytics, with an emphasis on reproducibility, validation and clear communication.
 
-Master of Computer Science, Illinois Institute of Technology · Charlotte, NC · Open to relocation
+Master of Computer Science, Illinois Institute of Technology · Open to relocation
 
 [LinkedIn](https://www.linkedin.com/in/purnendukale) · [Kaggle](https://www.kaggle.com/purnendukale) · [Email](mailto:purnendukale105@gmail.com)
 
