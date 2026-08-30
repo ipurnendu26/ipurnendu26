@@ -18,7 +18,9 @@ Based in the USA · Open to relocation · Interested in Data Science, AI/ML Engi
 
 ## Industry experience
 
-I bring **2+ years of hands-on experience across AI/ML and data science**, working on varied projects spanning industrial document intelligence, computer vision and OCR, NLP and LLM applications, predictive modeling, deep learning, streaming ETL, cloud data platforms, and business intelligence. I have built solutions processing **10+ label templates** and **500K+ transactions**, with outcomes including **100% template-selection precision**, **98% exact-match field decoding**, reduced manual review, lower data latency, and faster reporting. My interests center on building reliable, production-minded AI systems that connect strong modeling with scalable data engineering, measurable business impact, and clear evaluation.
+I bring **2+ years of hands-on experience in AI/ML and data science**, working across a broad range of applied projects and real-world data challenges. My experience includes building document-intelligence and information-extraction workflows, computer-vision and OCR solutions, NLP and LLM applications, predictive models, deep-learning experiments, streaming ETL pipelines, cloud-based data workflows, and business-intelligence dashboards.
+
+I enjoy taking projects from data preparation and feature engineering through model development, evaluation, API integration, visualization, and practical delivery. My professional interests focus on reliable, production-minded AI systems that combine strong modeling, scalable data engineering, responsible evaluation, and clear communication of insights.
 
 ## Featured projects
 
